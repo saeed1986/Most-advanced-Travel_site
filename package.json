@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +20,17 @@
   "homepage": "https://github.com/saeed1986/most-advanced-site#readme",
   "dependencies": {
     "lodash": "^4.17.15",
-    "normalize.css": "^8.0.1"
+    "normalize.css": "^8.0.1",
+    "postcss-import": "^12.0.1",
+    "postcss-loader": "^3.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.7.6",
+    "css-loader": "^3.5.2",
+    "postcss-nested": "^4.2.1",
+    "postcss-simple-vars": "^5.0.2",
+    "style-loader": "^1.1.3",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
   }
 }
