@@ -2,6 +2,7 @@
   font-size: 1.9rem;
   font-weight: 300;
   color: $mainBlue;
+  margin: 15px px;
 
   @mixin atSmall {
     font-size: 2.875rem;
@@ -44,6 +45,6 @@
   }
 
   &--no-t-margin {
-    margin-top: 0px;
+    margin-top: 10px;
   }
 }
