@@ -8,7 +8,7 @@
     font-size: 2.875rem;
   }
   &--centered {
-    text-align: center;
+    text-align: justify;
   }
 
   &--orange {
@@ -23,7 +23,7 @@
   }
 
   &--narrow {
-    max-width: 500px;
+    max-width: 600px;
     margin-left: auto;
     margin-right: auto;
   }
