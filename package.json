@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/saeed1986/most-advanced-site#readme",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "normalize.css": "^8.0.1",
     "postcss-loader": "^3.0.0"
   },
